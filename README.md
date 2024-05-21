@@ -1,1 +1,1 @@
-# EEG-drowsiness_detection
+# BCI-Drowsiness-detection-using-EEG
