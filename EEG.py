@@ -53,7 +53,7 @@ def plot_eeg(data, channels=None, start=0, end=None, sampling_rate=1, title='EEG
 
 def notch_filter(data, freq, fs, quality_factor=30):
     """
-    Primena Notch filtera na EEG podatke.
+    Primjena Notch filtera na EEG podatke.
 
     :param data: EEG podaci (DataFrame).
     :param freq: Frekvencija koja se uklanja (Hz).
